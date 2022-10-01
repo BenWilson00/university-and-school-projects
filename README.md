@@ -13,7 +13,7 @@ I may add the important parts of the code used to this repository at some point,
 
 ## Muon HAB Project Writeup
 
-For my last two years of school, up until the start of university, I worked on creating a homemade muon detector and long-distance radio and sending them up into the atmosphere on a high-altitude balloon in order to take measurements of the [RP curve](https://spaceweatherarchive.com/2018/06/07/what-is-the-regener-pfotzer-maximum/ "What is the RP curve?"). Amazingly enough, it actually worked, and the car trip in which I tracked the ascent and fall of the payload with my grandma (fingers crossed that it would actually keep transmitting, so we could recover it) was fantastically fun.
+For my last two years of school, up until the start of university, I worked on creating a homemade muon detector and long-distance radio and sending them up into the atmosphere on a high-altitude balloon in order to take measurements of the [RP curve](https://spaceweatherarchive.com/2018/06/07/what-is-the-regener-pfotzer-maximum/ "What is the RP curve?"). Amazingly enough, it actually worked, and the car trip in which I tracked the ascent and fall of the payload with my grandma (fingers crossed that it would actually keep transmitting, so we could recover it) was fantastically fun. This report was written as a requirement for winning the Rayson funding award from the school (worth £200).
 
 ## Biomed Final Coursework
 
