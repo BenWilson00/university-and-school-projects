@@ -1,5 +1,5 @@
 # university-and-school-projects
-This is a collection of projects and reports that I am proud of, from university and before.
+This is a collection of projects and reports that I am particularly proud of, from university and before.
 
 Please note I have only included reports that I don't believe will compromise assignments for future students. Please get in contact if you think one or more should be taken down.
 
